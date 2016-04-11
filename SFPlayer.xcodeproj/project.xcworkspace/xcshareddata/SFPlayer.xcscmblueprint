@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "b5b4a45c-e412-4391-8a3e-e06e72c4e898++3750",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++3750" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++3750" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0EC39B88-8972-42A0-9F7B-C1133B3239F5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++3750" : "OTT%20DEMO\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SFPlayer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "04编码\/0401源代码\/Native\/iOS\/SFPlayer\/SFPlayer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/10.0.5.11\/hwsbu.p021.2013",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b5b4a45c-e412-4391-8a3e-e06e72c4e898++3750"
+    }
+  ]
+}
