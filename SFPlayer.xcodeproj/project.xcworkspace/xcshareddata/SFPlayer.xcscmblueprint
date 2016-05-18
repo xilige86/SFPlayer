@@ -1,25 +1,45 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "b5b4a45c-e412-4391-8a3e-e06e72c4e898++3750",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++79C4A9B",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++3750" : {
+    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++D4071D9" : {
+
+    },
+    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++79C4A9B" : {
+
+    },
+    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++42AE153" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++3750" : 0
+    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++D4071D9" : 0,
+    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++79C4A9B" : 0,
+    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++42AE153" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0EC39B88-8972-42A0-9F7B-C1133B3239F5",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++3750" : "OTT%20DEMO\/"
+    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++D4071D9" : "SFPlayer\/",
+    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++79C4A9B" : "..\/..\/..\/..",
+    "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++42AE153" : "SFPlayer\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "SFPlayer",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "04编码\/0401源代码\/Native\/iOS\/SFPlayer\/SFPlayer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SFPlayer.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/10.0.5.11\/hwsbu.p021.2013",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b5b4a45c-e412-4391-8a3e-e06e72c4e898++3750"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++42AE153"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/10.0.5.11\/hwsbu.p021.2013",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++79C4A9B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/10.0.5.11\/hwsbu.p021.2013",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b5b4a45c-e412-4391-8a3e-e06e72c4e898++6159+++D4071D9"
     }
   ]
 }
